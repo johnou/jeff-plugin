@@ -1,0 +1,7 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <style type="text/css">
+        #main-table {
+            background-image: url(${resURL}/plugin/jeff-plugin/smug.png) !important;
+        }
+    </style>
+</j:jelly>
